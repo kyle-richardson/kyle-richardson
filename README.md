@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-## My name is Kyle.  
+#### My name is Kyle.  
 
-## I recently graduated from Lambda School and received certifications in several languages and frameworks.
+#### I recently graduated from Lambda School and received certifications in several languages and frameworks.
 
-## Ok, now that formalities are out of the way, let's code!
+#### Ok, now that formalities are out of the way, let's code!
 
 
 
