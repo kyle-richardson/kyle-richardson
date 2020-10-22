@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+## My name is Kyle.  
+
+## I recently graduated from Lambda School and received certifications in several languages and frameworks.
+
+## Ok, now that formalities are out of the way, let's code!
+
+
+
 <!--
 **kyle-richardson/kyle-richardson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
